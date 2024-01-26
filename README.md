@@ -5,6 +5,6 @@
 - 测试模拟版块 -- 一些测试题目 创新点(接入AI进行智能化评卷等)
 
 ## 项目技术栈
-### 前端 react react-router-dom antd redux ahooks
+### 前端 react typescript react-router-dom antd redux ahooks
 
 ### 后端 nestjs or go
